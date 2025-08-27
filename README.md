@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello, I'm Kyle.
+
+I’m a Frontend Developer/Product Designer interested in artistic creativity, human behavior, and technology. I'm currently enrolled at the University of Washington pursuing a B.S. in Informatics.
+
+With access to digital tools at a young age, I began creating interactive experiences through games, animation, and music. I love to make art because I can communicate ideas in a way that transcends language.
+
+Over five years, I led a cross-functional team to build Jaded, managing timelines, coordinating design, and aligning vision across disciplines. The result was a labor of love that launched on Steam and reached over 180,000 players. In this process, I realized my favorite part was design— making careful, intentional decisions to communicate a certain experience. Now, I'm keen to explore what other ways programs can impact people.
+
+Overall, I'm passionate about digital creativity, designing for people, and creating interactive experiences that bring joy to the people around me!
 
 <!--
 **kylejhong/kylejhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
